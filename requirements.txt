@@ -1,0 +1,4 @@
+google-cloud-secret-manager
+google-cloud-bigquery
+streamlit
+pandas  # BigQuery 결과를 DataFrame으로 처리하는 데 사용됩니다.
