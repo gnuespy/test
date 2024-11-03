@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# 환경 설정 파일
+*.env
+
+# 서비스 계정 키 파일 (클라우드에 배포 시 사용하지 않으므로 로컬에서만 필요할 경우)
+service-account.json
+
+# 기타 IDE 관련 파일
+.vscode/
+.idea/
